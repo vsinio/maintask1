@@ -1,0 +1,15 @@
+C:\Users\marke\Desktop\myRepo\newrepoforgb\task1True\bin\Debug\net6.0\task1True.exe
+C:\Users\marke\Desktop\myRepo\newrepoforgb\task1True\bin\Debug\net6.0\task1True.deps.json
+C:\Users\marke\Desktop\myRepo\newrepoforgb\task1True\bin\Debug\net6.0\task1True.runtimeconfig.json
+C:\Users\marke\Desktop\myRepo\newrepoforgb\task1True\bin\Debug\net6.0\task1True.dll
+C:\Users\marke\Desktop\myRepo\newrepoforgb\task1True\bin\Debug\net6.0\task1True.pdb
+C:\Users\marke\Desktop\myRepo\newrepoforgb\task1True\obj\Debug\net6.0\task1True.csproj.AssemblyReference.cache
+C:\Users\marke\Desktop\myRepo\newrepoforgb\task1True\obj\Debug\net6.0\task1True.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marke\Desktop\myRepo\newrepoforgb\task1True\obj\Debug\net6.0\task1True.AssemblyInfoInputs.cache
+C:\Users\marke\Desktop\myRepo\newrepoforgb\task1True\obj\Debug\net6.0\task1True.AssemblyInfo.cs
+C:\Users\marke\Desktop\myRepo\newrepoforgb\task1True\obj\Debug\net6.0\task1True.csproj.CoreCompileInputs.cache
+C:\Users\marke\Desktop\myRepo\newrepoforgb\task1True\obj\Debug\net6.0\task1True.dll
+C:\Users\marke\Desktop\myRepo\newrepoforgb\task1True\obj\Debug\net6.0\refint\task1True.dll
+C:\Users\marke\Desktop\myRepo\newrepoforgb\task1True\obj\Debug\net6.0\task1True.pdb
+C:\Users\marke\Desktop\myRepo\newrepoforgb\task1True\obj\Debug\net6.0\task1True.genruntimeconfig.cache
+C:\Users\marke\Desktop\myRepo\newrepoforgb\task1True\obj\Debug\net6.0\ref\task1True.dll
