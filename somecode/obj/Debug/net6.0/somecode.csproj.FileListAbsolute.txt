@@ -1,5 +1,0 @@
-C:\Users\marke\Desktop\myRepo\newrepoforgb\somecode\obj\Debug\net6.0\somecode.csproj.AssemblyReference.cache
-C:\Users\marke\Desktop\myRepo\newrepoforgb\somecode\obj\Debug\net6.0\somecode.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\marke\Desktop\myRepo\newrepoforgb\somecode\obj\Debug\net6.0\somecode.AssemblyInfoInputs.cache
-C:\Users\marke\Desktop\myRepo\newrepoforgb\somecode\obj\Debug\net6.0\somecode.AssemblyInfo.cs
-C:\Users\marke\Desktop\myRepo\newrepoforgb\somecode\obj\Debug\net6.0\somecode.csproj.CoreCompileInputs.cache
